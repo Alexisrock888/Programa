@@ -1,0 +1,2 @@
+1. Se debe descargar las carpetas que ya están creadas en Tramites.
+2. Las carpetas deben tener NumeroActa_NumeroCedula.

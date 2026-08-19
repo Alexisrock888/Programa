@@ -1,0 +1,7 @@
+1.Ingresar al correo institucional de Comunicaciones.
+2.Acceder a la carpeta de OneDrive ubicada en Mis archivos > Notificaciones_ins_abogado.
+3.Abrir el archivo de Excel Online denominado Base_Ins_Abg2.xlsx.
+4.Completar la información requerida en las celdas resaltadas en color verde.
+5.Ingresar a Power Automate con la cuenta de Comunicaciones y acceder a la sección My Flows (Mis flujos).
+6.Ejecutar una única vez el flujo denominado Notificaciones_ins_abogado.
+7.Verificar que la ejecución del flujo finalice correctamente y sin errores. (Opcional, pero recomendable incluirlo como paso final).

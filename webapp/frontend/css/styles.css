@@ -1,0 +1,72 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.nav-tabs .nav-link {
+    cursor: pointer;
+    color: #495057;
+    font-weight: 500;
+}
+
+.nav-tabs .nav-link.active {
+    color: #0d6efd;
+    font-weight: 600;
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: none;
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: 2px solid #0d6efd;
+}
+
+.card-header h5 {
+    margin: 0;
+    color: #333;
+}
+
+.results-table {
+    font-size: 0.85rem;
+}
+
+.results-table th {
+    background-color: #343a40;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.results-table .table-container {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.row-success {
+    background-color: #d4edda !important;
+}
+
+.row-error {
+    background-color: #f8d7da !important;
+}
+
+.summary-badges .badge {
+    font-size: 1rem;
+    padding: 0.5em 1em;
+    margin-right: 0.5rem;
+}
+
+.download-btn {
+    margin-top: 0.5rem;
+}
+
+.progress {
+    height: 25px;
+}
+
+.progress-bar {
+    font-size: 0.85rem;
+    line-height: 25px;
+}
